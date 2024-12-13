@@ -1,6 +1,6 @@
 ﻿using System;
 
-class LivrosBiblioteca
+class TipoJogoss
 {
     public string titulo;
     public string autor;
@@ -11,9 +11,9 @@ class LivrosBiblioteca
 
 class Atividade2
 {
-    static void addLivros(List<LivrosBiblioteca> listadeLivros)
+    static void addLivros(List<TipoJogoss> listadeLivros)
     {
-        LivrosBiblioteca novoLivro = new LivrosBiblioteca();
+        TipoJogoss novoLivro = new TipoJogoss();
         Console.WriteLine("*** Dados para Livro ***");
         Console.WriteLine("Título: ");
         novoLivro.titulo = Console.ReadLine();
@@ -28,7 +28,7 @@ class Atividade2
 
     }
 
-    static void mostraLivros(List<LivrosBiblioteca> listadeLivros)
+    static void mostraLivros(List<TipoJogoss> listadeLivros)
     {
         Console.WriteLine("*** Dados para Livro ***");
         for (int i = 0; i < listadeLivros.Count; i++)
@@ -41,7 +41,7 @@ class Atividade2
             Console.WriteLine("------------------------------------");
         }
     }
-    static void buscaLivros(List<LivrosBiblioteca> listadeLivros,
+    static void buscaLivros(List<TipoJogoss> listadeLivros,
                                            string tituloBusca)
     {
         for (int i = 0; i < listadeLivros.Count; i++)
@@ -60,7 +60,7 @@ class Atividade2
         }// fim for
 
     }
-    static void buscaAno(List<LivrosBiblioteca> listadeLivros,
+    static void buscaAno(List<TipoJogoss> listadeLivros,
                                            int anoBusca)
     {
         for (int i = 0; i < listadeLivros.Count; i++)
@@ -95,7 +95,7 @@ class Atividade2
     }
     static void Main()
     {
-        List<LivrosBiblioteca> listadeLivros = new List<LivrosBiblioteca>();
+        List<TipoJogoss> listadeLivros = new List<TipoJogoss>();
         int op;
         do
         {
