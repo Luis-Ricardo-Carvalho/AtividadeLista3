@@ -1,3 +1,0 @@
-Molejo,pagode,3,4
-Nodo,pagode,5,2
-luca,gene,54,54
