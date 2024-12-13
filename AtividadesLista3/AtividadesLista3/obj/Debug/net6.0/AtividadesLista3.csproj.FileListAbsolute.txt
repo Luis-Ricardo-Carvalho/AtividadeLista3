@@ -1,0 +1,14 @@
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\bin\Debug\net6.0\AtividadesLista3.exe
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\bin\Debug\net6.0\AtividadesLista3.deps.json
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\bin\Debug\net6.0\AtividadesLista3.runtimeconfig.json
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\bin\Debug\net6.0\AtividadesLista3.dll
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\bin\Debug\net6.0\AtividadesLista3.pdb
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.AssemblyInfoInputs.cache
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.AssemblyInfo.cs
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.csproj.CoreCompileInputs.cache
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.dll
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\refint\AtividadesLista3.dll
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.pdb
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\AtividadesLista3.genruntimeconfig.cache
+C:\Users\13692494629\source\repos\AtividadesLista3\AtividadesLista3\obj\Debug\net6.0\ref\AtividadesLista3.dll
